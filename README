@@ -1,0 +1,3 @@
+Tested on MAC OS X 10.6 Snow Leopard under Python 2.7.
+
+Run with sudo to see all external connections being made.
